@@ -1,0 +1,26 @@
+{"recipes":[
+  {
+    "name":"rezept1",
+    "carb":"kartoffel",
+    "effort":"low",
+    "season":"sommer",
+  },
+  {
+    "name":"rezept2",
+    "carb":"nudeln",
+    "effort":"low",
+    "season":"sommer",
+  },
+  {
+    "name":"rezept3",
+    "carb":"reis",
+    "effort":"low",
+    "season":"sommer",
+  },
+  {
+    "name":"rezept4",
+    "carb":"kartoffel",
+    "effort":"low",
+    "season":"sommer",
+  },
+  ]}
